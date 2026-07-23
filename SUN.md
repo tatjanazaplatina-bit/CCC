@@ -1,1 +1,2 @@
 "AAA"
+"NEW TEXT"
